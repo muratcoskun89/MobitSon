@@ -1,0 +1,73 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.thumbnail.urunSatiri {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+    .urunSatiri a, .stylebutton {
+        color: #fff;
+        background-color: #337ab7;
+        border-color: #2e6da4;
+        padding: 6px 12px;
+        margin-bottom: 0;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.18;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        text-decoration:none;
+    }
+.editimage {
+    width: 20%;
+    height: 20%;
+    border: 1px solid transparent;
+}
+
+.styleArea textarea {
+    width: 600px;
+    max-width: 600px;
+    height: 300px;
+    max-height: 300px;
+}
+
+/*Footer*/
+footer {
+    border-radius: 6px;
+    background-color: #222222;
+}
+footer li a, footer li, footer p {
+    color: #FFFFFF;
+    margin: 5px 0;
+
+}
+    footer h4 {
+        color: #999999;
+    }
+
+.support .col-sm-3 {
+    padding-left: 50px;
+    
+}
