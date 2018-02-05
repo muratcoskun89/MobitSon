@@ -1,0 +1,184 @@
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\ApplicationInsights.config
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll.config
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.pdb
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\WebGrease.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.pdb
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.xml
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csproj.CoreCompileInputs.cache
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.dll
+c:\users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\onedrive\belgeler\visual studio 2017\Projects\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll.config
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\WebGrease.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\mobit\MobitBilismDgerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll.config
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\WebGrease.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\projeson\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\ApplicationInsights.config
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll.config
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\MobitBilismDgerlendirmeProjesi.pdb
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\WebGrease.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Helpers.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Mvc.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Optimization.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.Razor.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Newtonsoft.Json.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\bin\Microsoft.AI.Web.xml
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.dll
+C:\Users\murat\Desktop\mobit\MobitDegerlendirmeProjesi\MobitBilismDgerlendirmeProjesi\obj\Debug\MobitBilismDgerlendirmeProjesi.pdb
