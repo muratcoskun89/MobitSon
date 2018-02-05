@@ -1,0 +1,37 @@
+﻿@model MobitBilismDgerlendirmeProjesi.Models.Urunler
+
+@{
+    ViewBag.Title = "IndexDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.UrunAdi Detayı</h2>
+
+<div>
+    
+    <hr />  
+    <div class="row">
+        <div class="thumbnail urunSatiri">
+            <img class="col-md-3" src="~/Content/images/@Model.UrunResimYolu" />
+            <div class="caption col-md-9">
+                <h3>@Model.UrunAdi</h3>
+                <p>@Html.Raw(@Model.UrunAciklamasi)</p>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    @{Html.RenderAction("MailPartial", "Home");}
+
+</div>
+
+
+
+<p class="urunSatiri">
+   
+    @Html.ActionLink("Listeye Dön", "Index")
+</p>

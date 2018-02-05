@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "AciklamaVeProjeDosylari";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AciklamaVeProjeDosylari</h2>
+
+<a href="~/Content/ProjeDosyalari/MobitDegerlendirmeProjesi.rar">Proje Dosyalarını indirmek için tıklayınız.</a>
+
+<h3> Proje İçeriği ve Kısa Açılamalar</h3>
+<h4> Kullanıcı tarafı</h4>
+*Ürünler kullanıcıya normal bir şekilde sıralanıyor , açıklama kısmında 300 karakter sınırı koydum. Daha fazlası için detaya basmak zorunda.
+<br />
+*Son Eklenen ürün en üstte gözüküyor<br />
+*Kullanıcı detay sayfasın gittiğinde, URL ürün başlığındaki boşluklar yerine "-" tire konmuş şekilde gözüküyor.<br />
+*Yine kullanıcı detay sayfasındayken, istediği kişinin mail adresini girerek ürünün url sini gönderebililiyor(url otomatik ekleniyor) kullanıcı istedği açıklama metnini girebiliyor.<br />
+*Mail  gönerildikten sonra mail gönerildi şeklinde sayfa üstüne mesaj düşüyor.<br />
+*Mail isimtescil SMTP ile gönderiliyor
+
+<br />
+
+<h4>Admin Tarafı</h4>
+*Admin paneline veya , admin işlemlerinin yapılacağı herhangi bir sayfaya sadece ve sadece kullancı girişi yapıldıktan sonra ulaşılabilir.<br />
+*Sifre Girme ekranı RegEx ve Validatorler ile korunaklı hale getirmilmiştir.<br />
+*Yanlış mail kullanıcı bilgileri girildğinde aynı sayfa yukarıda error mesajı ile gösteriliyor<br />
+
+*Navbar Da girş yapan kullanıcı ismi gözükmektedir<br />
+*Admin panelinde sıradan CRUD işlemleri var ve tamamı çalışmakta<br />
+*Ürün resmi eklenebiliyor. (Tek resim ekleniyor şimdilik geliştirebilirim.)<br />
+*ürün Açıklaması İçin <strong> RichTextEditor</strong> kullanıldı, yani girilen metin html tagları ile ekleniyor veritabnına, bunun için ek ayarlar yapıldı.<br />
+
+
+
+
+<h4>Teknik Özellikler</h4>
+*MVC-C#
+*Ms-Sql veritabnı kullanıldı<br />
+*Code First From Database yaklaşımı kullanıldı (Entity)<br />
+*Mail: isimtescil SMTP ile göneriliyor.
+*Proje İsimtescile atıldı<br />
+
+<h4>Eksik Kısımları</h4>
+*Birkaç yerde validator(RegEx) eksiklikleri var <br />
+*Mail Gonderme kısmında robot kontrolu eklenmeli<br />
+*Arama Partial view olarak navbar uzerine eklenip database de arama sonucçlarını gösteren bir View a yönlendirilebilirdi <br />
+*tasarımasal açıdan iyleştirmeler yapılabilir <br />
+(Tamamını yapabilirm ancak vaktim yetmedi...)<br />
+Saygılarımla Murat COŞKUN
+
+
+

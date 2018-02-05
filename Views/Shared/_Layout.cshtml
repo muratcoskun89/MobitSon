@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title HoşGeldiniz</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/ckeditor")
+
+
+@{ 
+    string KullaniciDurum = "";
+    string LinkAdi = "";
+    string LinkAdresi = "";
+    if (Session["Email"] != null && Session["Yetkisi"] != null)
+    {
+        KullaniciDurum =Session["KullaniciAdiSoyadi"].ToString()+ " |";
+        LinkAdi = "ÇIKIŞ"; LinkAdresi = "Cikis";
+    }else {
+        LinkAdi = "Giriş";
+        LinkAdresi= "Giris";
+        KullaniciDurum = "";
+    }
+
+}
+
+
+
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Mobit Değerlendirme Proje", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Anasayfa", "Index", "Home")</li>
+                   
+                    <li>@Html.ActionLink("Admin Paneli", "AdminPaneli", "Home")</li>
+                    <li>@Html.ActionLink("Aciklama Ve Proje Dosyları", "AciklamaVeProjeDosylari", "Home")</li>
+                
+                </ul>
+               
+                <ul class="nav navbar-nav" style="float:right">
+                    
+                 
+                    <li>@Html.ActionLink(KullaniciDurum+" "+LinkAdi, LinkAdresi, "Home")</li>
+                </ul>
+               
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+
+            @*<nav class="navbar navbar-inverse">
+             
+
+                <p>&copy; @DateTime.Now.Year Murat COŞKUN</p>
+            </nav>*@
+            <div class="row support">
+
+                <div class="col-sm-3 col-xs-4">
+                    <h4>Başlık 1</h4>
+                    <ul class="list-unstyled">
+                        <li> <a href="http://blog.creative-tim.com/">Blog</a></li>
+                        <li> <a href="#">Link0</a></li>
+                        <li> <a href="#">Link1</a></li>
+                        <li> <a href="#">&amp; Kullanım Koşulları</a></li>
+                        <li> <a href="#">Gizlilik Politikası</a></li>
+                        <li> <a href="#">Link2</a></li>
+                        <li> <a href="#">Link3</a></li>
+                        
+                    </ul>
+                </div>
+                <div class="col-sm-3 col-xs-4">
+                    <h4>Başlık 2</h4>
+                    <ul class="list-unstyled social-list">
+                        <li><h3 class="numbers-dont-lie"><b>347,199</b> Üye Sayısı</h3></li>
+                        <li><h3 class="numbers-dont-lie"><b>606,143</b> İndirme Sayısı Demo</h3></li>
+
+                    </ul>
+                </div>
+
+                <div class="col-sm-3 col-xs-4">
+                    <h4>Başlık 3</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Hakkımızda</a></li>
+                        <li><a href="#">İletişim</a></li>
+                        <li><a href="#">Sponsorlar</a></li>
+                        <li><a href="#">Bootstrap</a></li>
+                        <li><a href="#">Lisanslar</a></li>
+                        <li><a href="#">Ürün Galerisi</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-3 col-xs-12 text-center">
+                    <h4>Başlık 4</h4>
+                   
+                </div>
+
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

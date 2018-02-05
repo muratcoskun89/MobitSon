@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MobitBilismDgerlendirmeProjesi.Models.Urunler>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h3>Ürün Listesi</h3>
+
+
+
+@foreach (var item in Model)
+{
+
+    // Alt satırda url düzenleme yaptık ürün başlığındaki boşluklar yerine tire ekledik(çünkü boşluk karakteri url kısmında garip ifade ediliyor.)
+
+
+    string BosliklariTireIleDegistirilmisUrunAdi = item.UrunAdi.Replace(" ", "-");
+    string icerik = item.UrunAciklamasi;
+    if (icerik.Length > 300)
+    {
+        icerik = icerik.Substring(0, 300) + "...";
+    }
+
+
+    <div class="row">
+        <div class="thumbnail urunSatiri">
+            <img class="col-md-3" src="~/Content/images/@item.UrunResimYolu" />
+            <div class="caption col-md-9">
+                <h3>@item.UrunAdi</h3>
+
+                <p > <div id="DivDynamic">
+                         
+   @Html.Raw(icerik)
+</div> </p>
+
+                @Html.ActionLink("Detay", "IndexDetay", new { id = item.Id, @UrunAdi = BosliklariTireIleDegistirilmisUrunAdi })
+            </div>
+        </div>
+    </div>
+}
+

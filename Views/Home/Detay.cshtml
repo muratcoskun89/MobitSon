@@ -1,0 +1,29 @@
+﻿@model MobitBilismDgerlendirmeProjesi.Models.Urunler
+
+@{
+    ViewBag.Title = "Detay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ürün Detayı</h2>
+
+<div>
+  
+    <hr />
+    <div class="row">
+        <div class="thumbnail urunSatiri">
+            <img class="col-md-3" src="~/Content/images/@Model.UrunResimYolu" />
+            <div class="caption col-md-9">
+                <h3>@Model.UrunAdi</h3>
+                <p>@Html.Raw(@Model.UrunAciklamasi)</p>
+
+               
+
+            </div>
+        </div>
+    </div>
+</div>
+<p class="urunSatiri">
+    @Html.ActionLink("Düzenle", "Duzenle", new { id = Model.Id }) |
+    @Html.ActionLink("Listeye Dön", "AdminPaneli")
+</p>

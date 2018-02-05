@@ -1,0 +1,39 @@
+﻿@model MobitBilismDgerlendirmeProjesi.Models.Urunler
+
+@{
+    ViewBag.Title = "Sil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ürün Sil</h2>
+
+<h3>Ürünü silmek istediğinizden emin misiniz ?</h3>
+<div>
+    @{string icerik = Model.UrunAciklamasi;
+        if (icerik.Length > 300)
+        {
+            icerik = icerik.Substring(0, 300) + "...";
+        } }
+    <hr />
+    <div class="row">
+        <div class="thumbnail urunSatiri">
+            <img class="col-md-3" src="~/Content/images/@Model.UrunResimYolu" />
+            <div class="caption col-md-9">
+                <h3>@Model.UrunAdi</h3>
+                <p>@Html.Raw(icerik)</p>
+
+               
+              
+            </div>
+        </div>
+    </div>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color urunSatiri">
+            <input type="submit" value="Sil" class="stylebutton " /> 
+            @Html.ActionLink("Listeye Dön", "AdminPaneli")
+        </div>
+    }
+</div>

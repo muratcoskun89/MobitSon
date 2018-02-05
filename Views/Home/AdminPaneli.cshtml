@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MobitBilismDgerlendirmeProjesi.Models.Urunler>
+
+@{
+    ViewBag.Title = "AdminPaneli";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AdminPaneli</h2>
+<h4>Merhaba @Session["KullaniciAdiSoyadi"]</h4>
+<p class="urunSatiri"> 
+    @Html.ActionLink("Yeni Ürün", "Ekle")
+</p>
+
+    @foreach (var item in Model)
+    {
+        string icerik = item.UrunAciklamasi;
+        if (icerik.Length > 300)
+        {
+            icerik = icerik.Substring(0, 300) + "...";
+        }
+
+
+        <div class="row">
+            <div class="thumbnail urunSatiri">
+                <img class="col-md-3" src="~/Content/images/@item.UrunResimYolu" />
+                <div class="caption col-md-9">
+                    <h3>@item.UrunAdi</h3>
+                    <p>@Html.Raw(icerik)</p>
+
+                    @Html.ActionLink("Düzenle", "Duzenle", new { id = item.Id, @Urunad = item.UrunAdi }) 
+                    @Html.ActionLink("Detay", "Detay", new { id = item.Id, @Urunad = item.UrunAdi }) 
+                    @Html.ActionLink("Sil", "Sil", new { id = item.Id, @Urunad = item.UrunAdi })
+                </div>
+            </div>
+        </div>
+
+
+    }
+
+
+
